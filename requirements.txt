@@ -1,0 +1,7 @@
+# crypto wallet seed phrase miner dependencies
+mnemonic==0.21
+bip32utils==0.3.post4
+ecdsa==0.19.0
+pysha3==1.0.2
+Crypto==1.4.1
+requests==2.32.3
